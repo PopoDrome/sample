@@ -2,7 +2,7 @@
 
 <h2>This is from the 'secondbranch' branch</h2>
 <ul>
-  <li>1</li>
+  <li>This is the popobranch in an <li> tag</li>
 </ul>
 <div>
   <p>This is my paragraph<p>
